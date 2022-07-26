@@ -38,5 +38,6 @@ int main(){
         divide(a,b);
         break;
     }
+    //LET'S BE HAPPY
     return 0;
 }
